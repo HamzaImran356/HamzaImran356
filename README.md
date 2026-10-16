@@ -118,6 +118,7 @@ interests: [Reliable Data Pipelines, Dashboard Design, Applied Machine Learning]
 <li>Revenue, orders, customer behaviour, and sales territory reporting using the Adventure Works dataset.</li>
 </ul>
 <p><b>Tools:</b> Power BI · Talend · SQL · DAX</p>
+<p><a href="https://github.com/HamzaImran356/AdventureWorks-SQL-ETL"><b>View SQL staging &amp; ETL scripts →</b></a></p>
 </td></tr>
 </table>
 
