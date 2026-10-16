@@ -141,6 +141,7 @@ interests: [Reliable Data Pipelines, Dashboard Design, Applied Machine Learning]
 <h4>🧠 Brain Tumor Detection</h4>
 <p>A four-class MRI tumour classification project using a custom CNN in PyTorch, with <b>92% reported validation accuracy</b>.</p>
 <p><b>Tools:</b> Python · PyTorch · CNN</p>
+<p><a href="https://github.com/HamzaImran356/Brain-Tumor-Detection"><b>View Brain Tumor Detection repository →</b></a></p>
 </td>
 <td width="50%" valign="top">
 <h4>🙂 Facial Emotion Recognition</h4>
