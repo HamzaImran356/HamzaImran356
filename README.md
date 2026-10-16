@@ -167,15 +167,15 @@ Relevant coursework: Data Structures & Algorithms, Artificial Intelligence, Data
 
 ---
 
-### 📊 GitHub Statistics & Activity
+### 📊 Analytics Toolkit & GitHub Activity
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamzaImran356&amp;theme=2077" width="100%" alt="Hamza's GitHub profile statistics" />
 
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HamzaImran356&amp;theme=2077" width="48%" alt="Languages across public repositories" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HamzaImran356&amp;theme=2077" width="48%" alt="Most committed languages across public repositories" />
+<img src="./assets/languages.svg" width="48%" alt="Languages and analysis tools: Python, SQL, C++, C, pandas, NumPy, PyTorch, scikit-learn and OpenCV" />
+<img src="./assets/data-toolkit.svg" width="48%" alt="BI and data engineering tools: Power BI, Power Query, DAX, Talend, ETL, data warehousing, star schemas and SCD Type-2" />
 </p>
 
 <img src="https://ghchart.rshah.org/00d2ff/HamzaImran356" width="100%" alt="Hamza's GitHub contribution calendar" />

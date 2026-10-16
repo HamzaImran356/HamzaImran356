@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="230" viewBox="0 0 520 230" role="img" aria-labelledby="title desc">
+<title id="title">BI &amp; Data Engineering</title>
+<desc id="desc">Dashboards, pipelines and dimensional models. BUSINESS INTELLIGENCE: Power BI · Power Query · DAX; DATA PIPELINES: Talend · ETL · Data Warehousing; DATA MODELLING: Star schemas · SCD Type-2.</desc>
+<rect x="1" y="1" width="518" height="228" rx="14" fill="#0d1727" stroke="#253248"/>
+<rect x="28" y="25" width="4" height="24" rx="2" fill="#a78bfa"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="44" y="44" font-size="22" font-weight="700" fill="#a78bfa">BI &amp; Data Engineering</text>
+<text x="28" y="70" font-size="13" fill="#9eafc5">Dashboards, pipelines and dimensional models</text>
+<text x="28" y="104" font-size="12" font-weight="600" fill="#8b949e">BI &amp; REPORTING</text><text x="160" y="104" font-size="16" font-weight="500" fill="#e6edf3">Power BI · Power Query · DAX</text><text x="28" y="145" font-size="12" font-weight="600" fill="#8b949e">DATA PIPELINES</text><text x="160" y="145" font-size="16" font-weight="500" fill="#e6edf3">Talend · ETL · Data Warehousing</text><text x="28" y="186" font-size="12" font-weight="600" fill="#8b949e">DATA MODELLING</text><text x="160" y="186" font-size="16" font-weight="500" fill="#e6edf3">Star schemas · SCD Type-2</text>
+</g>
+<path d="M28 202H492" stroke="#253248"/>
+</svg>
